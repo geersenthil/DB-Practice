@@ -1,2 +1,2 @@
 # DS-Practice
-This repository is dedicated to personal practice
+This repository is dedicated to LeetCode practice
